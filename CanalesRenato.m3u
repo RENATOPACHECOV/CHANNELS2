@@ -1,0 +1,101 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A&E
+http://45.71.202.210:50000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS XTRA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CARTOON NETWORK 
+http://45.71.202.210:50000/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINECANAL
+http://45.71.202.210:50000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CINEMAX
+http://45.71.202.210:50000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY CHANNEL 
+http://45.71.202.210:50000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY ID
+http://45.71.202.210:50000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY KIDS 
+http://45.71.202.210:50000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY TURBO
+http://45.71.202.210:50000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISNEY CHANNEL 
+http://45.71.202.210:50000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISNEY JR
+http://45.71.202.210:50000/play/a00i/index.m3u8
+
+#EXTINF:-1   group-title="lista", ESPN
+http://23.237.78.54/live-1000/244/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FX MOVIES
+http://45.71.202.210:50000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX CHANNEL 
+http://45.71.202.210:50000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX LIFE
+http://45.71.202.210:50000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORT
+http://45.71.202.210:50000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 2
+http://45.71.202.210:50000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX SPORTS 3
+http://45.71.202.210:50000/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOL TV
+http://45.71.202.210:50000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HISTORY CHANNEL 
+http://45.71.202.210:50000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HOME AND HEALTH
+http://45.71.202.210:50000/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAT GEO
+http://45.71.202.210:50000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NATGEO KIDS
+http://45.71.202.210:50000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICK JR
+http://45.71.202.210:50000/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NICKELODEON
+http://45.71.202.210:50000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY
+http://45.71.202.210:50000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACE
+http://45.71.202.210:50000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TELEMUNDO 
+http://45.71.202.210:50000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT
+http://45.71.202.210:50000/play/a01v/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TYC SPORTS
+http://45.71.202.210:50000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNIVERSAL 
+http://45.71.202.210:50000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WARNER
+http://45.71.202.210:50000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WIN SPORTS +
+http://saypopular.com:25461/oscar/20gar/52853
