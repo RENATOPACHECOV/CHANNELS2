@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,LATINA HD
-https://live-normal-claro-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8?nva=1627261837&ttl=432000&ip=2800:200:f408:bdad:8d6b:f590:f276:691b&hash=0274fd9a5b23d7b60d74d
+https://live-normal-claro-hls.latina.pe/egress/bhandler/cialatina/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A&E
 http://45.71.202.210:50000/play/a00x/index.m3u8
