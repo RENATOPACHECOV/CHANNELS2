@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,FOX CHANNEL
-http://e10.telerium.uno:2052/free10/049/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDE6Mjg6MTEgQU0maGFzaF92YWx1ZT1qRU1haWZsRkpWdTJLNktuNFl2SDFRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1,FOX SD
-http://e10.telerium.uno:2052/free10/082/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDIxIDE6MzA6MzcgQU0maGFzaF92YWx1ZT1YdE00YVVoQlExV1p4eHZtdWZSL29BPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,ESPN
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/f.m3u8
