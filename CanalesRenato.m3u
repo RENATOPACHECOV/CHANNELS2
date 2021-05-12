@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,GOLPERU
+https://e2.cdnfoxtv.com/ingest013/68691.m3u8?sf=cWE4QUg3TmRPNw==&token=VcGZSwZZqIkkBFl7WpdAnw&expires=1620866564&rnd=
+
 #EXTINF:-1,DW INTERNACIONAL
 http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8
 
